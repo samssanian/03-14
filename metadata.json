@@ -1,0 +1,6 @@
+{
+  "name": "Write Made by Sams Sanian",
+  "description": "A Roman Bangla psychological thriller about an endless time loop, told through a scroll-driven cinematic experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
